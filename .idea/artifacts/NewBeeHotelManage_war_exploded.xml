@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="NewBeeHotelManage:war exploded">
+    <output-path>$PROJECT_DIR$/target/NewBeeHotelManage</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="NewBeeHotelManage" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/NewBeeHotelManage/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="NewBeeHotelManage/web/Web" />
+    </root>
+  </artifact>
+</component>

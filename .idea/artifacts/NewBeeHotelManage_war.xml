@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="NewBeeHotelManage:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="NewBeeHotelManage.war">
+      <element id="artifact" artifact-name="NewBeeHotelManage:war exploded" />
+    </root>
+  </artifact>
+</component>
